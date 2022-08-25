@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  font-family: "Aboreto", cursive;
+}
+h2 {
+  font-family: "Roboto Condensed", sans-serif;
+}
+h3 {
+  font-family: "Roboto Condensed", sans-serif;
+}
+p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.section1 {
+}
+
+img {
+  width: auto;
+  height: 30rem;
+}
